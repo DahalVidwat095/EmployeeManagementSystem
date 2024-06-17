@@ -2,10 +2,7 @@
 
 # Java Project 
 
-## Exam-Replacement-Coursework-st4003cem
-## DESCRIPTION :
-
-This is a simple Employee Management System where admin can create, read, update and delete employee details.
+This is a simple Employee Management System where the admin can create, read, update, and delete employee details.
 
 
 ## App Images
@@ -41,7 +38,4 @@ This is a simple Employee Management System where admin can create, read, update
 ##### This project can be used for any educational purpose and can be changed or modified in need.
 
 ### Vidwat Dahal
-### Softwarica ID:210056
-### Coventry ID:11495697
-##### Email-ID : 210056@softwarica.edu.np
 
